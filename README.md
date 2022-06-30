@@ -1,14 +1,14 @@
 # ysChat
 
-Web chat application developed with Express.js, Socket.IO and ReactJS, Bulma.
+Web chat application developed with Express.js, Socket.IO and ReactJS, Bulma and RSA, AES, node-mac.
 
 ## How to Use
 
 Make sure you have [Node.js](http://nodejs.org/) installed.
 
 ```sh
-git clone https://github.com/yusufsefasezer/ysChat.git
-cd ysChat
+https://github.com/mehranfarhdi/chat-room.git
+cd chat-room
 ```
 
 ### Server
@@ -38,4 +38,4 @@ Your app should now be running on [localhost:3000](http://localhost:3000/).
 # License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
 
-Created by [Yusuf SEZER](http://www.yusufsezer.com)
+Created by [Mehran Farhadi](https://www.linkedin.com/in/mehran-farhadi-312154199/)

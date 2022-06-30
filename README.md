@@ -1,4 +1,4 @@
-# ysChat
+# asghar-agha-chat-room
 
 Web chat application developed with Express.js, Socket.IO and ReactJS, Bulma and RSA, AES, node-mac.
 

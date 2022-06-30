@@ -1,0 +1,37 @@
+{
+  "name": "Chat_Room_Asghar_Agha",
+  "version": "0.1.0",
+  "description": "Asghar client developed with ReactJS and Bulma.",
+  "author": {
+    "name": "mehran farhadi",
+    "email": "farhadimehran479@gmail.com"
+  },
+  "keywords": [
+    "websocket-client",
+    "websocket-application",
+    "websocket-chat",
+    "chat-client",
+    "react-chat",
+    "socket-io-client"
+  ],
+  "private": true,
+  "dependencies": {
+    "aes-encryption": "^1.0.4",
+    "big-integer": "^1.6.51",
+    "node-mac-crypt": "^1.0.0",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-redux": "^8.0.2",
+    "react-redux-loading-bar": "^5.0.4",
+    "react-scripts": "1.1.5",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.4.1",
+    "socket.io-client": "^2.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

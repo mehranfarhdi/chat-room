@@ -7,7 +7,7 @@ Web chat application developed with Express.js, Socket.IO and ReactJS, Bulma and
 Make sure you have [Node.js](http://nodejs.org/) installed.
 
 ```sh
-https://github.com/mehranfarhdi/chat-room.git
+git clone https://github.com/mehranfarhdi/chat-room.git
 cd chat-room
 ```
 

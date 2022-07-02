@@ -1,6 +1,6 @@
 # asghar-agha-chat-room
 
-Web chat application developed with Express.js, Socket.IO and ReactJS, Bulma and RSA, AES, node-mac.
+Web chat application developed with Express.js, Socket.IO, ReactJS and redux.js, Bulma and RSA, AES, node-mac.
 
 ## How to Use
 
